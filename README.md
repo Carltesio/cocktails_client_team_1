@@ -32,7 +32,7 @@
 **Front End:** React v. | CSS  
 **Back End:** Ruby 2.5.1 | Rails 6.0.2 
 **Testing framework:** Cypress  
-**Deployed at:** [Netlify]() and [Heroku](h).
+**Deployed at:** [Netlify](https://tippler-team1.netlify.app/) and [Heroku](h).
 
 ## The code   
 This project 
