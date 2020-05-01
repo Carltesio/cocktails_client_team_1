@@ -70,7 +70,7 @@ $ yarn start
 ```
 
 ## Updates/Improvements   
-- T
+- Improve UI to make it easier for visitors to use the webpage.
 
 ## License  
 [MIT-license](https://en.wikipedia.org/wiki/MIT_License)
