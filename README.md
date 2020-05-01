@@ -18,8 +18,9 @@
 
 
 
-## The code   
-This project 
+## The code 
+This Webapp allows you to search the ingredients needed for a cocktail and the different kind along with price in Systembolaget.
+This project is part of a code learning experience where the core is to make use of at least one API where to fetch data from. For this project we made use of the cocktailDB api and Systembolaget. The former one gave us info on what ingredints and cocktails name, the second gives us the different options present in Systembolaget.
 
 ## Getting started
 ### Dependencies  
