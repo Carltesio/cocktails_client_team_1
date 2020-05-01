@@ -1,10 +1,15 @@
 # The Midcourse Project | Team 1
 ### Authors
-[Hunter Vitous](https://github.com/hmvitous)
-[Kayla Woodbury](https://github.com/kaylawoodbury) 
-[Daniel Bryant](https://github.com/DanielGITB)
-[Janko Radakovic](https://github.com/MadFarmer101)
 [Carlos Delgado](https://github.com/Carltesio)
+
+[Hunter Vitous](https://github.com/hmvitous)
+
+[Kayla Woodbury](https://github.com/kaylawoodbury) 
+
+[Daniel Bryant](https://github.com/DanielGITB)
+
+[Janko Radakovic](https://github.com/MadFarmer101)
+
 [Paulo Swärdblad?](https://github.com/pauloswardblad) 
  
 ## Built with
