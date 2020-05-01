@@ -10,7 +10,7 @@
 
 [Janko Radakovic](https://github.com/MadFarmer101)
 
-[Paulo Swärdblad?](https://github.com/pauloswardblad) 
+[Paulo Swärdblad](https://github.com/pauloswardblad) 
  
 ## Built with
 **Front End:** React v. | CSS  
