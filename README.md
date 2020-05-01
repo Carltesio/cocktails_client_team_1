@@ -35,6 +35,7 @@
 **Deployed at:** [Netlify](https://tippler-team1.netlify.app/) and [Heroku](h).
 
 [![Build Status](https://semaphoreci.com/api/v1/hmvitous/cocktails_client_team_1/branches/master/badge.svg)](https://semaphoreci.com/hmvitous/cocktails_client_team_1)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0d33ae2-8587-4130-9fe6-217c89a58cd5/deploy-status)](https://app.netlify.com/sites/cocktail-challenge-ca-t1/deploys)
 
 
 
